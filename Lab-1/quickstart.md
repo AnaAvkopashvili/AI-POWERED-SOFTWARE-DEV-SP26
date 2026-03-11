@@ -4,7 +4,7 @@
 
 If you already have Python 3.10+ and Git installed, this is your starting point. If you need to install anything from scratch, start with [`tools-setup.md`](./tools-setup.md) and come back here.
 
-> **Homework 1 reminder:** Due **before your Lab 2 session** — Friday 13 March 2026 (Group A: 09:00, Group B: 11:00). See [`homework/hw1-individual.md`](./homework/hw1-individual.md) for full requirements. Everything you set up in this quickstart is the foundation you will build on for HW1.
+> **Homework 1 reminder:** Due **before your Lab 2 session** — Friday 20 March 2026 (Group A: 09:00, Group B: 11:00). See [`homework/hw1-individual.md`](./homework/hw1-individual.md) for full requirements. Everything you set up in this quickstart is the foundation you will build on for HW1.
 
 ---
 
