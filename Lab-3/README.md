@@ -33,7 +33,7 @@ Resolve anything missing in the first 10 minutes. Raise your hand immediately �
 ### From Lab 2 (team — in your team project repo)
 - [ ] Team project repo exists under `github.com/ZA-KIU-Classroom/AI-POWERED-SOFTWARE-DEV-SP26`
 - [ ] All team members have push access
-- [ ] `frontend/` scaffold committed from Builder Sprint (Bolt / Lovable / v0 export)
+- [ ] `frontend/` scaffold will be committed at a later date
 - [ ] `backend/` folder exists with at least a placeholder
 - [ ] Working vision call committed (image input + AI response)
 - [ ] Six-section proposal draft completed — all 6 sections at least started
